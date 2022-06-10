@@ -1,2 +1,2 @@
 # javascript-dio
- Repositório com projetos em javascript
+ Repositório com projetos em JavaScript.
